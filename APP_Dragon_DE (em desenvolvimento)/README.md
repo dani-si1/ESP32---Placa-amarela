@@ -13,7 +13,7 @@ O objetivo do projeto é desenvolver uma interface própria para o ESP32, utiliz
 #####
 
 ```markdown
-''![Dragon_DE executando na ESP32 Yellow Board](docs/images/dragon_de_esp32.jpg)
+(docs/images/dragon_de_esp32.jpg)
 ```
 
 <!-- Substitua o caminho acima pela localização da foto no repositório. -->
